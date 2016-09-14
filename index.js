@@ -40,6 +40,10 @@ module.exports = function (config) {
       'test/**/*.js'
     ],
 
+    junitReporter: {
+      outputFile: 'TEST-frontend-js.xml'
+    },
+
     preprocessors: {
       'src/**/*.js': ['babel', 'commonjs'],
       'node_modules/html2incdom/src/*.js': ['babel', 'commonjs'],
