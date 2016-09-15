@@ -1,6 +1,6 @@
 {
   "name": "liferay-karma-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Liferay portal's default configuration for Karma tests",
   "license": "MIT",
   "repository": "kenjiheigel/liferay-karma-config",
