@@ -36,7 +36,7 @@ module.exports = function (config) {
       'node_modules/metal-soy-bundle/build/bundle.js',
       'node_modules/html2incdom/src/*.js',
       'node_modules/metal*/src/**/*.js',
-      'src/**/*.js',
+      'src/**/*.es.js',
       'test/**/*.js'
     ],
 
